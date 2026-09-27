@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "category": "Anime",
+    "series": "Dragon Ball",
+    "image": "assets/images/anime/guko.jpeg",
+    "profile": "A cheerful Saiyan warrior who constantly trains to become stronger and protect Earth.",
+    "tags": ["Saiyan", "Warrior", "Hero"]
+  },
+  {
+    "id": 2,
+    "name": "Naruto Uzumaki",
+    "category": "Anime",
+    "series": "Naruto",
+    "image": "assets/images/anime/narotu.jpeg",
+    "profile": "An energetic ninja who dreams of becoming Hokage and earning the respect of his village.",
+    "tags": ["Ninja", "Hokage", "Shinobi"]
+  },
+  {
+    "id": 3,
+    "name": "Monkey D. Luffy",
+    "category": "Anime",
+    "series": "One Piece",
+    "image": "assets/images/anime/monkey.jpeg",
+    "profile": "A fearless pirate with a rubber-like body who dreams of becoming the Pirate King.",
+    "tags": ["Pirate", "Captain", "Adventure"]
+  },
+  {
+    "id": 4,
+    "name": "Gojo Satoru",
+    "category": "Anime",
+    "series": "Jujutsu Kaisen",
+    "image": "assets/images/anime/gujosatoro.jpeg",
+    "profile": "An exceptionally powerful sorcerer known for his confidence, humor and Infinity technique.",
+    "tags": ["Sorcerer", "Infinity", "Jujutsu"]
+  },
+  {
+    "id": 5,
+    "name": "Tanjiro Kamado",
+    "category": "Anime",
+    "series": "Demon Slayer",
+    "image": "assets/images/anime/tanjiro2.png",
+    "profile": "A kind-hearted swordsman who fights demons while searching for a way to restore his sister.",
+    "tags": ["Demon Slayer", "Swordsman", "Hero"]
+  },
+  {
+    "id": 6,
+    "name": "Jungkook",
+    "category": "K-Pop",
+    "series": "BTS",
+    "image": "assets/images/k-pop/jungkook.jpg",
+    "profile": "A versatile vocalist and performer known for his singing, dancing and energetic stage presence.",
+    "tags": ["BTS", "Singer", "Performer"]
+  },
+  {
+    "id": 7,
+    "name": "Lisa",
+    "category": "K-Pop",
+    "series": "BLACKPINK",
+    "image": "assets/images/k-pop/lisa.jpg",
+    "profile": "A skilled rapper, dancer and performer recognized for her charismatic stage presence.",
+    "tags": ["BLACKPINK", "Rapper", "Dancer"]
+  },
+  {
+    "id": 8,
+    "name": "Karina",
+    "category": "K-Pop",
+    "series": "aespa",
+    "image": "assets/images/k-pop/karina.jpg",
+    "profile": "A leader and performer known for her powerful dancing, visuals and futuristic group concept.",
+    "tags": ["aespa", "Leader", "Dancer"]
+  },
+  {
+    "id": 9,
+    "name": "Felix",
+    "category": "K-Pop",
+    "series": "Stray Kids",
+    "image": "assets/images/k-pop/felix stray kid.webp",
+    "profile": "A rapper and dancer famous for his distinctive deep voice and powerful performances.",
+    "tags": ["Stray Kids", "Rapper", "Dancer"]
+  },
+  {
+    "id": 10,
+    "name": "Wonyoung",
+    "category": "K-Pop",
+    "series": "IVE",
+    "image": "assets/images/k-pop/wonyoung ive.webp",
+    "profile": "A vocalist and performer known for her polished stage presence and confident image.",
+    "tags": ["IVE", "Vocalist", "Performer"]
+  },
+  {
+    "id": 11,
+    "name": "Iron Man",
+    "category": "Movies",
+    "series": "Marvel",
+    "image": "assets/images/movie/ironman.jpg",
+    "profile": "Tony Stark is a brilliant inventor who uses advanced technology to become the armored superhero Iron Man.",
+    "tags": ["Marvel", "Hero", "Technology"]
+  },
+  {
+    "id": 12,
+    "name": "Harry Potter",
+    "category": "Movies",
+    "series": "Harry Potter",
+    "image": "assets/images/movie/harry potter.jpg",
+    "profile": "A young wizard who discovers his magical heritage and faces the dark wizard Voldemort.",
+    "tags": ["Wizard", "Magic", "Hogwarts"]
+  },
+  {
+    "id": 13,
+    "name": "Jack Sparrow",
+    "category": "Movies",
+    "series": "Pirates of the Caribbean",
+    "image": "assets/images/movie/Jack Sparrow.jpg",
+    "profile": "A clever and unpredictable pirate whose adventures revolve around treasure, ships and survival.",
+    "tags": ["Pirate", "Adventure", "Captain"]
+  },
+  {
+    "id": 14,
+    "name": "Elsa",
+    "category": "Movies",
+    "series": "Frozen",
+    "image": "assets/images/movie/Elsa.jpg",
+    "profile": "A queen with magical ice powers who learns to accept herself and protect the people she loves.",
+    "tags": ["Queen", "Magic", "Frozen"]
+  },
+  {
+    "id": 15,
+    "name": "Neo",
+    "category": "Movies",
+    "series": "The Matrix",
+    "image": "assets/images/movie/neo the matrix.jpg",
+    "profile": "A computer programmer who discovers that his reality is an artificial simulation.",
+    "tags": ["The Matrix", "Hacker", "Hero"]
+  },
+  {
+    "id": 16,
+    "name": "Eleven",
+    "category": "TV-Shows",
+    "series": "Stranger Things",
+    "image": "assets/images/tv-show/Stranger Things 5 - 4K Wallpaper for Phone.jpg",
+    "profile": "A mysterious girl with powerful psychic abilities who helps her friends fight supernatural threats.",
+    "tags": ["Psychic", "Mystery", "Hero"]
+  },
+  {
+    "id": 17,
+    "name": "Wednesday Addams",
+    "category": "TV-Shows",
+    "series": "Wednesday",
+    "image": "assets/images/tv-show/wednesday.jpg",
+    "profile": "A brilliant and darkly humorous teenager who investigates mysteries at Nevermore Academy.",
+    "tags": ["Mystery", "Nevermore", "Gothic"]
+  },
+  {
+    "id": 18,
+    "name": "Sherlock Holmes",
+    "category": "TV-Shows",
+    "series": "Sherlock",
+    "image": "assets/images/tv-show/sherlock.jpg",
+    "profile": "A highly intelligent detective famous for solving complex mysteries through observation and deduction.",
+    "tags": ["Detective", "Mystery", "Deduction"]
+  },
+  {
+    "id": 19,
+    "name": "Michael Scott",
+    "category": "TV-Shows",
+    "series": "The Office",
+    "image": "assets/images/tv-show/jon snow.jpg",
+    "profile": "The eccentric regional manager of Dunder Mifflin's Scranton branch, known for awkward humor.",
+    "tags": ["Comedy", "Manager", "Dunder Mifflin"]
+  },
+  {
+    "id": 20,
+    "name": "Jon Snow",
+    "category": "TV-Shows",
+    "series": "Game of Thrones",
+    "image": "assets/images/tv-show/Jon Snow2.jpg",
+    "profile": "A noble warrior who becomes an important leader while confronting threats beyond the Wall.",
+    "tags": ["Warrior", "Leader", "Westeros"]
+  },
+  {
+    "id": 21,
+    "name": "Eren Yeager",
+    "category": "Manga",
+    "series": "Attack on Titan",
+    "image": "assets/images/manga/eren.jpg",
+    "profile": "A determined young man who seeks freedom and becomes deeply involved in humanity's struggle against Titans.",
+    "tags": ["Titan", "Freedom", "Soldier"]
+  },
+  {
+    "id": 22,
+    "name": "Light Yagami",
+    "category": "Manga",
+    "series": "Death Note",
+    "image": "assets/images/manga/ligthyagami.webp",
+    "profile": "A highly intelligent student who uses a supernatural notebook to eliminate people he considers criminals.",
+    "tags": ["Death Note", "Genius", "Mystery"]
+  },
+  {
+    "id": 23,
+    "name": "Thorfinn",
+    "category": "Manga",
+    "series": "Vinland Saga",
+    "image": "assets/images/manga/thorfinn.webp",
+    "profile": "A skilled warrior whose violent childhood journey eventually leads him toward a desire for peace.",
+    "tags": ["Viking", "Warrior", "Explorer"]
+  },
+  {
+    "id": 24,
+    "name": "Denji",
+    "category": "Manga",
+    "series": "Chainsaw Man",
+    "image": "assets/images/manga/denji.jpg",
+    "profile": "A poor teenager who gains the ability to transform into Chainsaw Man after merging with his devil companion.",
+    "tags": ["Devil Hunter", "Chainsaw", "Action"]
+  },
+  {
+    "id": 25,
+    "name": "Izuku Midoriya",
+    "category": "Manga",
+    "series": "My Hero Academia",
+    "image": "assets/images/manga/izoka.webp",
+    "profile": "A determined student who dreams of becoming a hero and inherits the powerful One For All ability.",
+    "tags": ["Hero", "One For All", "Student"]
+  },
+  {
+    "id": 26,
+    "name": "Batman",
+    "category": "Comics",
+    "series": "DC Comics",
+    "image": "assets/images/comics/batman.webp",
+    "profile": "Bruce Wayne is a skilled vigilante who fights crime in Gotham using intelligence, technology and training.",
+    "tags": ["DC", "Hero", "Gotham"]
+  },
+  {
+    "id": 27,
+    "name": "Spider-Man",
+    "category": "Comics",
+    "series": "Marvel Comics",
+    "image": "assets/images/comics/spiderman.avif",
+    "profile": "Peter Parker gains spider-like abilities and uses them to protect people while balancing everyday life.",
+    "tags": ["Marvel", "Web", "Hero"]
+  },
+  {
+    "id": 28,
+    "name": "Superman",
+    "category": "Comics",
+    "series": "DC Comics",
+    "image": "assets/images/comics/superman.webp",
+    "profile": "An alien from Krypton who uses his extraordinary powers to protect humanity and fight injustice.",
+    "tags": ["DC", "Krypton", "Hero"]
+  },
+  {
+    "id": 29,
+    "name": "Wonder Woman",
+    "category": "Comics",
+    "series": "DC Comics",
+    "image": "assets/images/comics/wonder.png",
+    "profile": "An Amazon warrior princess who uses her strength and abilities to defend humanity and promote peace.",
+    "tags": ["DC", "Amazon", "Warrior"]
+  },
+  {
+    "id": 30,
+    "name": "Deadpool",
+    "category": "Comics",
+    "series": "Marvel Comics",
+    "image": "assets/images/comics/deadpool.jpg ",
+    "profile": "Wade Wilson is a wisecracking, unpredictable mercenary with accelerated healing abilities.",
+    "tags": ["Marvel", "Mercenary", "Comedy"]
+  },
+  {
+    "id": 31,
+    "name": "Mario",
+    "category": "Gaming",
+    "series": "Super Mario",
+    "image": "assets/images/games/mario2.webp",
+    "profile": "A cheerful plumber who repeatedly adventures through dangerous worlds to rescue friends and defeat enemies.",
+    "tags": ["Nintendo", "Platformer", "Hero"]
+  },
+  {
+    "id": 32,
+    "name": "Link",
+    "category": "Gaming",
+    "series": "The Legend of Zelda",
+    "image": "assets/images/games/the zelda.jpg",
+    "profile": "A courageous hero who explores mysterious worlds and fights to protect the kingdom of Hyrule.",
+    "tags": ["Nintendo", "Hyrule", "Hero"]
+  },
+  {
+    "id": 33,
+    "name": "Kratos",
+    "category": "Gaming",
+    "series": "God of War",
+    "image": "assets/images/games/Kratos God of War (2).jpg",
+    "profile": "A powerful Spartan warrior who battles gods and monsters while struggling with his violent past.",
+    "tags": ["Spartan", "Gods", "Warrior"]
+  },
+  {
+    "id": 34,
+    "name": "Master Chief",
+    "category": "Gaming",
+    "series": "Halo",
+    "image": "assets/images/games/Master Chief Halo (2).jpg",
+    "profile": "A legendary supersoldier who fights alien forces and protects humanity across the galaxy.",
+    "tags": ["Halo", "Spartan", "Soldier"]
+  },
+  {
+    "id": 35,
+    "name": "Lara Croft",
+    "category": "Gaming",
+    "series": "Tomb Raider",
+    "image": "assets/images/games/lara croft tomb raider.webp",
+    "profile": "A skilled archaeologist and adventurer who explores ancient ruins and uncovers dangerous secrets.",
+    "tags": ["Adventure", "Archaeologist", "Explorer"]
+  }
+]

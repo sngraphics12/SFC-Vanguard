@@ -1,0 +1,362 @@
+* {
+    background-color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 80%;
+    height: auto;
+
+    display: grid;
+
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 175px);
+
+    grid-row-gap: 6px;
+    grid-column-gap: 6px;
+
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+
+.box1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+    background-image: url(../images/squid\ game\ 2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.box2 {
+    background-color: blue;
+
+    background-image: url(../images/images2.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+
+.box3 {
+    background-color: blueviolet;
+
+    background-image: url(../images/BTS.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 4;
+    grid-column-end: 6;
+
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+
+.box4 {
+    background-color: brown;
+
+    background-image: url(../images/goku\ gallery.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.box5 {
+    background-color: burlywood;
+
+    background-image: url(../images/stranger\ things\ gallery.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.box6 {
+    background-color: cadetblue;
+
+    background-image: url(../images/black\ pink\ front.avif);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 3;
+    grid-column-end: 5;
+
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.box7 {
+    background-color: chartreuse;
+
+    background-image: url(../images/download\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 5;
+    grid-column-end: 6;
+
+    grid-row-start: 3;
+    grid-row-end: 6;
+}
+
+.box8 {
+    background-color: chocolate;
+
+    background-image: url(../images/dead\ pool\ front.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+    grid-row-start: 4;
+    grid-row-end: 6;
+}
+
+.box9 {
+    background-color: cornflowerblue;
+
+    background-image: url(../images/gta\ 6.webp);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.box10 {
+    background-color: darkgoldenrod;
+
+    background-image: url(../images/manga\ front.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 4;
+    grid-column-end: 5;
+
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.box11 {
+    background-color: darkred;
+
+    background-image: url(..//images/enrique_arce_arturo_roman_money_heist-d659c97.jpg);
+    background-position: center;
+    background-size: cover;
+
+    grid-column-start: 3;
+    grid-column-end: 5;
+
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+
+
+.box1:hover {
+    background-image: url(../images/netflix-squid-game-season-3-2025-dl.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box2:hover {
+    background-image: url(../images/images9.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box3:hover {
+    background-image: url(../images/bts\ back.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box4:hover {
+    background-image: url(../images/goku\ gallery2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box5:hover {
+    background-image: url(../images/stranger\ things\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box6:hover {
+    background-image: url(../images/black\ pink\ hover.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box7:hover {
+    background-image: url(../images/download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box8:hover {
+    background-image: url(../images/deadpool\ hover.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box9:hover {
+    background-image: url(../images/gta-6-\ hover.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+.box10:hover {
+    background-image: url(../images/manga\ hover.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .main {
+        width: 75%;
+
+        margin-left: 220px;
+        margin-top: 100px;
+
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 150px);
+
+        gap: 5px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    .main {
+        width: 90%;
+
+        margin-left: 5%;
+        margin-top: 90px;
+
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+
+        gap: 8px;
+    }
+
+    .box1,
+    .box2,
+    .box3,
+    .box4,
+    .box5,
+    .box6,
+    .box7,
+    .box8,
+    .box9,
+    .box10,
+    .box11 {
+
+        grid-column: auto;
+        grid-row: auto;
+
+        min-height: 200px;
+    }
+
+    .box1,
+    .box3,
+    .box6,
+    .box8,
+    .box11 {
+        grid-column: span 2;
+    }
+
+    .box2,
+    .box4,
+    .box5,
+    .box7,
+    .box9,
+    .box10 {
+        grid-column: span 1;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .main {
+        width: 94%;
+
+        margin-left: 3%;
+        margin-top: 80px;
+
+        display: grid;
+
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+
+        gap: 8px;
+    }
+
+    .box1,
+    .box2,
+    .box3,
+    .box4,
+    .box5,
+    .box6,
+    .box7,
+    .box8,
+    .box9,
+    .box10,
+    .box11 {
+
+        grid-column: 1;
+        grid-row: auto;
+
+        width: 100%;
+        min-height: 220px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .main {
+        width: 96%;
+
+        margin-left: 2%;
+        margin-top: 70px;
+
+        gap: 6px;
+    }
+
+    .box1,
+    .box2,
+    .box3,
+    .box4,
+    .box5,
+    .box6,
+    .box7,
+    .box8,
+    .box9,
+    .box10,
+    .box11 {
+
+        min-height: 180px;
+    }
+}

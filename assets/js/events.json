@@ -1,0 +1,212 @@
+[
+    {
+        "category": "ANIME",
+        "title": "ANIME EXPO 2026 TOKYO",
+        "image": "assets/images/eventsimages/animeevent.png",
+        "location": "Tokyo Big Sight, Odaiba (Tokyo, Japan)",
+        "date": "Oct 01 - Oct 12, 2026",
+        "time": "09:00 AM - 07:00 PM",
+        "description": "The world's flagship anime convention featuring premiere screenings and special guests.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "ANIME",
+        "title": "JUMP FESTA 2026",
+        "image": "assets/images/eventsimages/btsfesta.png",
+        "location": "Makuhari Messe, Chiba (Japan)",
+        "date": "Dec 19 - Dec 20, 2026",
+        "time": "10:00 AM - 06:00 PM",
+        "description": "A major manga and anime event featuring new series, games and special announcements.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "ANIME",
+        "title": "ANIME NYC AUTUMN MEETUP",
+        "image": "assets/images/eventsimages/animenyc.png",
+        "location": "Javits Center, Manhattan (New York, USA)",
+        "date": "Nov 20 - Nov 22, 2026",
+        "time": "10:00 AM - 08:00 PM",
+        "description": "The premier East Coast celebration of Japanese pop culture, anime and manga.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "GAMING",
+        "title": "GAMESCOM 2026 COLOGNE",
+        "image": "assets/images/eventsimages/gamescone.png",
+        "location": "Koelnmesse Exhibition Center, Cologne (Germany)",
+        "date": "Aug 24 - Aug 30, 2026",
+        "time": "09:00 AM - 08:00 PM",
+        "description": "The world's largest gaming event with new games, hardware and esports showcases.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "GAMING",
+        "title": "EVOLUTION CHAMPIONSHIP SERIES",
+        "image": "assets/images/eventsimages/toronto.png",
+        "location": "Mandalay Bay Arena, Las Vegas, USA",
+        "date": "Aug 07 - Aug 09, 2026",
+        "time": "10:00 AM - 11:00 PM",
+        "description": "The fighting game community's legendary arena event with championship matches.",
+        "status": "Sold Out"
+    },
+    {
+        "category": "GAMING",
+        "title": "TOKYO GAME SHOW 2026",
+        "image": "assets/images/eventsimages/tokyogame.png",
+        "location": "Makuhari Messe, Tokyo (Japan)",
+        "date": "Sep 24 - Sep 27, 2026",
+        "time": "10:00 AM - 06:00 PM",
+        "description": "Showcasing cutting-edge RPGs, VR experiences and next-generation games.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "MOVIES",
+        "title": "CANNES FILM FESTIVAL RED CARPET",
+        "image": "assets/images/eventsimages/cannes.png",
+        "location": "Palais des Festivals, Cannes, France",
+        "date": "May 12 - May 23, 2026",
+        "time": "02:00 PM - 11:30 PM",
+        "description": "World premieres from legendary filmmakers, standing ovations and glamorous evenings.",
+        "status": "Sold Out"
+    },
+    {
+        "category": "MOVIES",
+        "title": "TORONTO INTERNATIONAL FILM FESTIVAL",
+        "image": "assets/images/eventsimages/toronto.png",
+        "location": "TIFF Bell Lightbox, Toronto (Canada)",
+        "date": "Sep 10 - Sep 20, 2026",
+        "time": "11:00 AM - 10:00 PM",
+        "description": "The public film festival features season contenders, premieres and filmmaker Q&A.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "MOVIES",
+        "title": "DUNE 70MM IMAX MIDNIGHT",
+        "image": "assets/images/eventsimages/Dunetrilogy.png",
+        "location": "BFI IMAX, Waterloo (London, UK)",
+        "date": "Oct 05, 2026",
+        "time": "07:00 PM - 01:00 AM",
+        "description": "Double feature screening of Dune: Part One and Part Two on an authentic 70mm screen.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "TV-SHOWS",
+        "title": "STRANGER THINGS FINALE GLOBAL",
+        "image": "assets/images/eventsimages/Netflix.png",
+        "location": "Hollywood Bowl, Los Angeles, USA",
+        "date": "Nov 06, 2026",
+        "time": "08:00 PM - 11:30 PM",
+        "description": "Live orchestral performance of the synth soundtrack followed by the finale screening.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "TV-SHOWS",
+        "title": "SERIES MANIA INTERNATIONAL",
+        "image": "assets/images/eventsimages/netflix2.png",
+        "location": "Lille Grand Palais, France",
+        "date": "Mar 20 - Mar 27, 2026",
+        "time": "10:00 AM - 07:00 PM",
+        "description": "Europe's leading television festival celebrating international drama series.",
+        "status": "Free Entry"
+    },
+    {
+        "category": "TV-SHOWS",
+        "title": "ARCANE: ART OF PILTOVER & ZAUN",
+        "image": "assets/images/eventsimages/ARcane.png",
+        "location": "Fort Mason Center, San Francisco, USA",
+        "date": "Oct 15 - Oct 25, 2026",
+        "time": "11:00 AM - 09:00 PM",
+        "description": "Immersive walk-through exhibition featuring original artwork and concept designs.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "K-POP",
+        "title": "K-POP WORLD FESTIVAL 2026",
+        "image": "assets/images/eventsimages/kpop.png",
+        "location": "Changwon Stadium, Olympic Park, Seoul",
+        "date": "Aug 20 - Aug 24, 2026",
+        "time": "05:00 PM - 10:30 PM",
+        "description": "A colorful showcase of top K-pop groups, fan cover dance battles and live performances.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "K-POP",
+        "title": "MAMA AWARDS 2026",
+        "image": "assets/images/eventsimages/straykid.png",
+        "location": "Kyocera Dome Osaka, Japan",
+        "date": "Nov 28 - Nov 29, 2026",
+        "time": "06:00 PM - 11:00 PM",
+        "description": "The pinnacle of Asian music awards featuring stage collaborations and special performances.",
+        "status": "Free Entry"
+    },
+    {
+        "category": "K-POP",
+        "title": "KCON LA CONVENTION & NIGHT",
+        "image": "assets/images/eventsimages/Dunetrilogy.png",
+        "location": "Crypto.com Arena, Los Angeles",
+        "date": "Jul 24 - Jul 26, 2026",
+        "time": "10:00 AM - 10:00 PM",
+        "description": "A major Korean pop culture convention with artists, fan events and live concerts.",
+        "status": "Sold Out"
+    },
+    {
+        "category": "COMICS",
+        "title": "SAN DIEGO COMIC-CON",
+        "image": "assets/images/eventsimages/sandiagospider.png",
+        "location": "San Diego Convention Center, San Diego",
+        "date": "Jul 23 - Jul 27, 2026",
+        "time": "09:00 AM - 07:00 PM",
+        "description": "The historic comic book convention with blockbuster reveals and collectible showcases.",
+        "status": "Sold Out"
+    },
+    {
+        "category": "COMICS",
+        "title": "NEW YORK COMIC CON (NYCC)",
+        "image": "assets/images/eventsimages/dragon.png",
+        "location": "Javits Center, New York, USA",
+        "date": "Oct 08 - Oct 11, 2026",
+        "time": "10:00 AM - 07:00 PM",
+        "description": "Marvel and DC Comics showcase milestones, creator panels and comic discussions.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "COMICS",
+        "title": "COMIC CON ISLAMABAD 2026",
+        "image": "assets/images/eventsimages/comiccon.png",
+        "location": "Pak-China Friendship Centre, Islamabad",
+        "date": "Nov 13 - Nov 15, 2026",
+        "time": "11:00 AM - 09:00 PM",
+        "description": "Pakistan's premier fandom convention with comic creators, digital illustrators and fans.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "MANGA",
+        "title": "COMIC MARKET 106 (COMIKET)",
+        "image": "assets/images/eventsimages/demonslayer.png",
+        "location": "Tokyo Big Sight, Tokyo, Japan",
+        "date": "Dec 29 - Dec 30, 2026",
+        "time": "10:30 AM - 04:00 PM",
+        "description": "The world's largest self-published manga and independent artist marketplace.",
+        "status": "Tickets Open"
+    },
+    {
+        "category": "MANGA",
+        "title": "ANGOULÊME INTERNATIONAL",
+        "image": "assets/images/eventsimages/summergame.png",
+        "location": "Espace Franquin, Angoulême, France",
+        "date": "Jan 28 - Feb 01, 2026",
+        "time": "09:30 AM - 06:30 PM",
+        "description": "Europe's biggest comic festival with retrospectives honoring Japanese manga artists.",
+        "status": "Free Entry"
+    },
+    {
+        "category": "MANGA",
+        "title": "MANGA ART HERITAGE EXHIBITION",
+        "image": "assets/images/eventsimages/tokyogame.png",
+        "location": "Roppongi Hills Mori Arts Center, Tokyo",
+        "date": "Nov 01 - Nov 20, 2026",
+        "time": "10:00 AM - 08:00 PM",
+        "description": "An archival showcase of original manga manuscript pages and historic artwork.",
+        "status": "Tickets Open"
+    }
+]

@@ -1,0 +1,81 @@
+
+    [{
+      "id": "Manga",
+      "name": "ANIME",
+      "short": "Explore worlds...",
+      "image": "assets/images/k-pop/babymonster.jpg",
+      "price": "$50"
+      
+    },
+    {
+      "id": "gaming",
+      "name": "Battlefield 6",
+      "short": "Play. Watch. Be...",
+      "image": "assets/images/games/battlefield.jpg",
+      "price": "$50"
+    },
+    {
+      "id": "movies",
+      "name": "MOVIES",
+      "short": "Lights. Camera...",
+      "image": "assets/images/movies/army of thieves.jpg",
+      "price": "$45"
+    },
+    {
+      "id": "tv-shows",
+      "name": "TV SHOWS",
+      "short": "Binge the best...",
+      "image": "assets/images/tv-shows/all of us dead.jpg",
+      "price": "$40"
+    },
+    {
+      "id": "k-pop",
+      "name": "K-POP",
+      "short": "Music. Idols...",
+      "image": "assets/images/k-pop/G-idle.webp",
+      "price": "$60"
+    },
+    {
+      "id": "comics",
+      "name": "COMICS",
+      "short": "Read. Collect...",
+      "image": "assets/images/DemonSlayer.jpg",
+      "price": "$70"
+    },
+    {
+      "id": "manga",
+      "name": "MANGA",
+      "short": "Panels of...",
+      "image": "assets/images/tv-shows/the witcher.jpg",
+      "price": "$55"
+    },
+    {
+      "id": "comics",
+      "name": "COMICS",
+      "short": "Read. Collect...",
+      "image": "assets/images/movies/spiderman 4.jpg",
+      "price": "$70"
+    },
+    {
+      "id": "comics",
+      "name": "COMICS",
+      "short": "Read. Collect...",
+      "image": "assets/images/movies/titanic.jpg",
+      "price": "$70"
+    },
+    {
+      "id": "comics",
+      "name": "COMICS",
+      "short": "Read. Collect...",
+      "image": "assets/images/tv-shows/3000.webp",
+      "price": "$70"
+    },
+    {
+      "id": "comics",
+      "name": "COMICS",
+      "short": "Read. Collect...",
+      "image": "assets/images/tv-shows/harry potter.jpg",
+      "price": "$70"
+    }
+  ]
+  

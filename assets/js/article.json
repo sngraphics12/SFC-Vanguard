@@ -1,0 +1,980 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/anime/arthur.jpg",
+    "name": "ARTHUR",
+    "category": "anime",
+    "release_date": "JUNE 15 2021",
+    "description": "Arthur Leywin is the main protagonist of the high fantasy anime series The Beginning After the End, adapted from the web novel and comic.",
+    "details": "Arthur Leywin is the main protagonist of the high fantasy anime series The Beginning After the End, adapted from the web novel and comic.",
+    "trailers":"https://youtu.be/LmDiNVrJM9A?si=BCXiSXudidA3Xnwe"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/anime/MELIODAS.jpg",
+    "name": "MELIODAS",
+    "category": "anime",
+    "release_date": "MAY 06 2022",
+    "description": "Meliodas is the Dragon's Sin of Wrath and the main protagonist of The Seven Deadly Sins series.",
+    "details": "Meliodas is the Dragon's Sin of Wrath and the main protagonist of The Seven Deadly Sins series.",
+    "trailers":"https://youtu.be/Sf7rNw8mZ-Y?si=IPS3-nU9R6RO_ylQ"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/anime/BAN.jpg",
+    "name": "BAN",
+    "category": "anime",
+    "release_date": "APRIL 05 2020",
+    "description": "Ban is the Fox's Sin of Greed in the anime and manga series The Seven Deadly Sins.",
+    "details": "Ban is the Fox's Sin of Greed in the anime and manga series The Seven Deadly Sins.",
+    "trailers":"https://youtu.be/gH4PpZCXsl8?si=KC5DSO-8RPH-9FI6"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/anime/CATH.jpg",
+    "name": "CATH",
+    "category": "anime",
+    "release_date": "JANUARY 21 2022",
+    "description": "Cath (also known as Cath Palug) is an evil, greedy, and nihilistic monster in The Seven Deadly Sins who initially disguises himself as a small, silent creature.",
+    "details": "Cath (also known as Cath Palug) is an evil, greedy, and nihilistic monster in The Seven Deadly Sins who initially disguises himself as a small, silent creature.",
+    "trailers":"https://youtu.be/yFFHx3KueSs?si=M43A_9GP8JUlnG-O"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/anime/DEMON KING.jpg",
+    "name": "DEMON KING",
+    "category": "anime",
+    "release_date": "DECEMBER 08 2021",
+    "description": "The Demon King is the supreme ruler of the Demon Clan and the main antagonist in The Seven Deadly Sins franchise.",
+    "details": "The Demon King is the supreme ruler of the Demon Clan and the main antagonist in The Seven Deadly Sins franchise.",
+    "trailers":"https://youtu.be/stjOfBu14k0?si=gC3DvRhUgbyTBXz-"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/anime/ESCANOR.jpg",
+    "name": "ESCANOR",
+    "category": "anime",
+    "release_date": "AUGUST 14 2017",
+    "description": "Escanor is the Lion's Sin of Pride and the strongest human Holy Knight in the series The Seven Deadly Sins.",
+    "details": "Escanor is the Lion's Sin of Pride and the strongest human Holy Knight in the series The Seven Deadly Sins.",
+    "trailers":"https://youtu.be/zlwQERpksnw?si=GAtvtitFJtfF-J85"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/anime/Mael.webp",
+    "name": "MAEL",
+    "category": "anime",
+    "release_date": "NOVEMBER 14 2025",
+    "description": "Mael is one of the Four Archangels of the Goddess Clan and the original wielder of the divine power Sunshine in the anime and manga series The Seven Deadly Sins.",
+    "details": "Mael is one of the Four Archangels of the Goddess Clan and the original wielder of the divine power Sunshine in the anime and manga series The Seven Deadly Sins.",
+    "trailers":"https://youtu.be/VrFSW84JdqA?si=0L0HaPXuKqLqVIt5"
+  },
+  {
+    "id": 8,
+    "image": "assets/images/anime/Supreme_Deity_anime.webp",
+    "name": "SUPREME DEITY",
+    "category": "anime",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "The Supreme Deity is the supreme ruler and creator of the Goddess Clan in the anime and manga series The Seven Deadly Sins (Nanatsu no Taizai).",
+    "details": "The Supreme Deity is the supreme ruler and creator of the Goddess Clan in the anime and manga series The Seven Deadly Sins (Nanatsu no Taizai).",
+    "trailers":"https://youtu.be/gZveSAbZlyw?si=wPwpROknJ_H2FzQG"
+  },
+  {
+    "id": 9,
+    "image": "assets/images/anime/ZELDRIS.jpg",
+    "name": "ZELDRIS",
+    "category": "anime",
+    "release_date": "MARCH 19 2025",
+    "description": "Zeldris is a major antagonist and the younger brother of Meliodas in the anime and manga series The Seven Deadly Sins.",
+    "details": "Zeldris is a major antagonist and the younger brother of Meliodas in the anime and manga series The Seven Deadly Sins.",
+    "trailers":"https://youtu.be/Swd3LsSOR4I?si=kVPXJLdvy_FAgieQ"
+  },
+  {
+    "id": 10,
+    "image": "assets/images/anime/goku.webp",
+    "name": "GOKU",
+    "category": "anime",
+    "release_date": "JANUARY 17 2019",
+    "description": "Son Goku is the main hero of the Dragon Ball franchise, a famous Japanese media series created by Akira Toriyama.",
+    "details": "Son Goku is the main hero of the Dragon Ball franchise, a famous Japanese media series created by Akira Toriyama.",
+    "trailers":"https://youtu.be/MWPA_-GhQwk?si=KU7AISA1sua_3kQx"
+  },
+  {
+    "id": 11,
+    "image": "assets/images/anime/shinobu kocho.jpeg",
+    "name": "SHINOBU KOCHO",
+    "category": "anime",
+    "release_date": "APRIL 22 2018",
+    "description": "Shinobu Kocho is the Insect Hashira and a major supporting character in the dark fantasy anime and manga series Demon Slayer.",
+    "details": "Shinobu Kocho is the Insect Hashira and a major supporting character in the dark fantasy anime and manga series Demon Slayer.",
+    "trailers":"https://youtu.be/3r1P6iDM3bw?si=V-eDnAcDPyleLe-X"
+  },
+  {
+    "id": 12,
+    "image": "assets/images/anime/ONE.jpg",
+    "name": "ONE PIECE",
+    "category": "anime",
+    "release_date": "JUNE 25 2021",
+    "description": "One Piece is an epic adventure story about a young pirate named Monkey D. Luffy who searches for a legendary treasure to become the King of the Pirates.",
+    "details": "One Piece is an epic adventure story about a young pirate named Monkey D. Luffy who searches for a legendary treasure to become the King of the Pirates.",
+    "trailers":"https://youtu.be/3Gmo0EXHyKg?si=m-D5BlnzQ-2w-lFv"
+  },
+  {
+    "id": 13,
+    "image": "assets/images/comic/spiderman.jpg",
+    "name": "SPIDERMAN",
+    "category": "comic",
+    "release_date": "JUNE 15 2021",
+    "description": "He gains superhuman strength, agility, the ability to stick to walls, and a warning spider-sense. He also builds wrist-mounted web-shooters.",
+    "details": "He gains superhuman strength, agility, the ability to stick to walls, and a warning spider-sense. He also builds wrist-mounted web-shooters.",
+    "trailers":"https://youtu.be/3GnNtQ-frDo?si=ooQW7Y1qsvyCoCEc"
+  },
+  {
+    "id": 14,
+    "image": "assets/images/comic/captain america.jpg",
+    "name": "CAPTAIN AMERICA",
+    "category": "comic",
+    "release_date": "MAY 06 2022",
+    "description": "Captain America is a patriotic superhero created by Joe Simon and Jack Kirby who first debuted in Captain America Comics #1 in March 1941.",
+    "details": "Captain America is a patriotic superhero created by Joe Simon and Jack Kirby who first debuted in Captain America Comics #1 in March 1941.",
+    "trailers":"https://youtu.be/9M9mWeJCqkA?si=AmCmxpkAfH8hCnS6"
+  },
+  {
+    "id": 15,
+    "image": "assets/images/comic/daredevil.jpg",
+    "name": "DAREDEVIL",
+    "category": "comic",
+    "release_date": "APRIL 05 2020",
+    "description": "The radiation heightens his remaining senses (touch, smell, hearing, and taste) to superhuman levels.",
+    "details": "The radiation heightens his remaining senses (touch, smell, hearing, and taste) to superhuman levels.",
+    "trailers":"https://youtu.be/Gi1QdjqWMok?si=ccQuAj0nAXC4QjpS"
+  },
+  {
+    "id": 16,
+    "image": "assets/images/comic/golden fish.jpg",
+    "name": "GOLD FIScH",
+    "category": "comic",
+    "release_date": "JANUARY 21 2022",
+    "description": "Goldfisch is a manga and comic series created by Nana Yaa.",
+    "details": "Goldfisch is a manga and comic series created by Nana Yaa.",
+    "trailers":"https://youtu.be/2AoS2jXodhA?si=ceQxjJ2OOp28dBIA"
+  },
+  {
+    "id": 17,
+    "image": "assets/images/comic/dr.seuss.jpg",
+    "name": "DR SEUSS",
+    "category": "comic",
+    "release_date": "DECEMBER 08 2021",
+    "description": "Dr. Seuss (Theodor Seuss Geisel) created a wide range of illustrated work outside his classic children's books, including early commercial advertising.",
+    "details": "Dr. Seuss (Theodor Seuss Geisel) created a wide range of illustrated work outside his classic children's books, including early commercial advertising.",
+    "trailers":"https://youtu.be/X5Irl_oWD6M?si=aFB1J9DBqmnNGSuU"
+  },
+  {
+    "id": 18,
+    "image": "assets/images/comic/the captain and the kids.jpg",
+    "name": "THE CAPTAIN AND THE KIDS",
+    "category": "comic",
+    "release_date": "AUGUST 14 2017",
+    "description": "Ran simultaneously alongside The Katzenjammer Kids for decades, distributed by the United Feature Syndicate.",
+    "details": "Ran simultaneously alongside The Katzenjammer Kids for decades, distributed by the United Feature Syndicate.",
+    "trailers":"https://youtu.be/Lr8j9gM2wKE?si=vWHqjIytJtg3oQMB"
+  },
+  {
+    "id": 19,
+    "image": "assets/images/comic/scooby-doo.jpg",
+    "name": "SCOOBY-DOO",
+    "category": "comic",
+    "release_date": "NOVEMBER 14 2025",
+    "description": "Scooby-Doo comic books feature episodic mystery and comedy adventures starring the teenage sleuths Fred, Daphne, Velma, Shaggy, and their talking Great Dane, Scooby-Doo.",
+    "details": "Scooby-Doo comic books feature episodic mystery and comedy adventures starring the teenage sleuths Fred, Daphne, Velma, Shaggy, and their talking Great Dane, Scooby-Doo.",
+    "trailers":"https://youtu.be/ksAP4oz-y7Y?si=pAkxhf1B8XGWHmSl"
+  },
+  {
+    "id": 20,
+    "image": "assets/images/comic/hilda and the ghost.jpg",
+    "name": "HILDA AND THE GHOST",
+    "category": "comic",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "Hilda and the Ghost Ship is an adventurous tie-in story written by Stephen Davies.",
+    "details": "Hilda and the Ghost Ship is an adventurous tie-in story written by Stephen Davies.",
+    "trailers":"https://youtu.be/qKCujeAEoMY?si=myr5Y9ib6_kqknad"
+  },
+  {
+    "id": 21,
+    "image": "assets/images/comic/BLACK PANTHER.avif",
+    "name": "BLACK PANTHER",
+    "category": "comic",
+    "release_date": "MARCH 19 2025",
+    "description": "Black Panther is a groundbreaking Marvel comic book superhero who rules and protects the technologically advanced fictional African nation of Wakanda.",
+    "details": "Black Panther is a groundbreaking Marvel comic book superhero who rules and protects the technologically advanced fictional African nation of Wakanda.",
+    "trailers":"https://youtu.be/pDIMUJ-3I-E?si=cFIOYj_nJ8w1HWI2"
+  },
+  {
+    "id": 22,
+    "image": "assets/images/comic/BUGWAR 2.jpg",
+    "name": "BUG WAR",
+    "category": "comic",
+    "release_date": "APRIL 22 2018",
+    "description": "Bug Wars is a dark fantasy comic book series published by Image Comics, created by writer Jason Aaron and artist Mahmud Asrar.",
+    "details": "Bug Wars is a dark fantasy comic book series published by Image Comics, created by writer Jason Aaron and artist Mahmud Asrar.",
+    "trailers":"https://youtu.be/bdWVBhDO53A?si=a2429Kav2InHyqIM"
+  },
+  {
+    "id": 23,
+    "image": "assets/images/comic/ONE ON ONE.jpg",
+    "name": "ONE PIECE",
+    "category": "comic",
+    "release_date": "JUNE 25 2021",
+    "description": "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda that follows the adventures of a young rubber-powered pirate searching for the ultimate treasure.",
+    "details": "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda that follows the adventures of a young rubber-powered pirate searching for the ultimate treasure.",
+    "trailers":"https://youtu.be/-UyKEZkFum8?si=3OLOhUhrjZ9USPBo"
+  },
+  {
+    "id": 24,
+    "image": "assets/images/battlefield.jpg",
+    "name": "BATTLEFIELD 6",
+    "category": "games",
+    "release_date": "JUNE 15 2021",
+    "description": "Battlefield 6 is an online-only first-person shooter developed by Battlefield Studios.",
+    "details": "Battlefield 6 is an online-only first-person shooter developed by Battlefield Studios.",
+    "trailers":"https://youtu.be/wFGEMfyAQtI?si=1gYuvXN5Xbn2429n"
+  },
+  {
+    "id": 25,
+    "image": "assets/images/call of duty.jpg",
+    "name": "CALL OF DUTY",
+    "category": "games",
+    "release_date": "MAY 06 2022",
+    "description": "A story-driven single-player mode with cinematic missions set.",
+    "details": "A story-driven single-player mode with cinematic missions set.",
+    "trailers":"https://youtu.be/qqf2T1ctbAM?si=RkM5SJi8r9yOdufG"
+  },
+  {
+    "id": 26,
+    "image": "assets/images/counter strike.jpg",
+    "name": "COUNTER STRIKE",
+    "category": "games",
+    "release_date": "APRIL 05 2020",
+    "description": "Terrorists try to plant a C4 bomb at specific sites or eliminate the CT team.",
+    "details": "Terrorists try to plant a C4 bomb at specific sites or eliminate the CT team.",
+    "trailers":"https://youtu.be/nSE38xjMLqE?si=7lsuvY13xftIo-ie"
+  },
+  {
+    "id": 27,
+    "image": "assets/images/fifa.jpg",
+    "name": "FIFA 22",
+    "category": "games",
+    "release_date": "JANUARY 21 2022",
+    "description": "Available on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Nintendo Switch.",
+    "details": "Available on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Nintendo Switch.",
+    "trailers":"https://youtu.be/o1igaMv46SY?si=DyEKxqmVkSdsZwlO"
+  },
+  {
+    "id": 28,
+    "image": "assets/images/Gears_of_war_cover_art.jpg",
+    "name": "GEARS OF WAR",
+    "category": "games",
+    "release_date": "DECEMBER 08 2021",
+    "description": "A ruthless subterranean adversary known as the Locust Horde.",
+    "details": "A ruthless subterranean adversary known as the Locust Horde.",
+    "trailers":"https://youtu.be/-TW2SnAipsE?si=sQUXJMDiC-C65zWV"
+  },
+  {
+    "id": 29,
+    "image": "assets/images/god of war.jpg",
+    "name": "GOD OF WAR",
+    "category": "games",
+    "release_date": "AUGUST 14 2017",
+    "description": "God of War is an action-adventure video game centered on Kratos.",
+    "details": "God of War is an action-adventure video game centered on Kratos.",
+    "trailers":"https://youtu.be/K0u_kAWLJOA?si=IFt1bRbvWMv8hkiZ"
+  },
+  {
+    "id": 30,
+    "image": "assets/images/gta 6.jpg",
+    "name": "GTA 6",
+    "category": "games",
+    "release_date": "UPCOMING",
+    "description": "Grand Theft Auto VI is an open-world action-adventure game set in the fictional Vice City area.",
+    "details": "Grand Theft Auto VI is an open-world action-adventure game set in the fictional Vice City area.",
+    "trailers":"https://youtu.be/eOrb93UZfPU?si=BdfrOoCxM1x-XSOv"
+  },
+  {
+    "id": 31,
+    "image": "assets/images/Mindsey 3.jpg",
+    "name": "MINDSEY 3",
+    "category": "games",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "MindsEye is a cinematic, single-player, third-person action-adventure thriller.",
+    "details": "MindsEye is a cinematic, single-player, third-person action-adventure thriller.",
+    "trailers":"https://youtu.be/_185sXGmiok?si=59fKk6ThO9KR5kGI"
+  },
+  {
+    "id": 32,
+    "image": "assets/images/mortal shell.jpg",
+    "name": "MORTAL SHELL",
+    "category": "games",
+    "release_date": "MARCH 19 2025",
+    "description": "You start as a fragile, wraith-like creature. Survival requires you to possess and inhabit shells.",
+    "details": "You start as a fragile, wraith-like creature. Survival requires you to possess and inhabit shells.",
+    "trailers":"https://youtu.be/JSs0_PBGiLs?si=h4eNTKuaCiSTwvM1"
+  },
+  {
+    "id": 33,
+    "image": "assets/images/pung.jpg",
+    "name": "PUBG BATTLEGROUNDS",
+    "category": "games",
+    "release_date": "JANUARY 17 2019",
+    "description": "The last surviving player or squad wins the match.",
+    "details": "The last surviving player or squad wins the match.",
+    "trailers":"https://youtu.be/uCd6tbUAy6o?si=RRY4HMkzyHsRfviG"
+  },
+  {
+    "id": 34,
+    "image": "assets/images/ready or not.jpg",
+    "name": "READY OR NOT",
+    "category": "games",
+    "release_date": "APRIL 22 2018",
+    "description": "Ready or Not is an intense, realistic tactical first-person shooter as an elite SWAT team.",
+    "details": "Ready or Not is an intense, realistic tactical first-person shooter as an elite SWAT team.",
+    "trailers":"https://youtu.be/yQs8ezmT2QA?si=xv3AYt3fGFeNasQa"
+  },
+  {
+    "id": 35,
+    "image": "assets/images/taken 6.jpg",
+    "name": "TEKKEN 6",
+    "category": "games",
+    "release_date": "JUNE 25 2021",
+    "description": "Tekken 6 is a 3D fighting game developed and published by Bandai Namco Games.",
+    "details": "Tekken 6 is a 3D fighting game developed and published by Bandai Namco Games.",
+    "trailers":"https://youtu.be/wXX2XrILyvY?si=WlbrbxOcvSaRPw8c"
+  },
+  {
+    "id": 36,
+    "image": "assets/images/k-pop/babymonster.jpg",
+    "name": "BABY MONSTER",
+    "category": "k-pop",
+    "release_date": "JUNE 15 2021",
+    "description": "BABYMONSTER is a fierce, hip-hop-centric k-pop girl group.",
+    "details": "BABYMONSTER is a multinational seven-member k-pop girl group formed by YG Entertainment. The septet consists of Ruka, Pharita, Asa, Ahyeon, Rami, Rora, and Chiquita. They officially debuted as a full ensemble on April 1, 2024, with their mini-album BABYMONS7ER.",
+         "trailers": "https://youtu.be/1TYYOw-815A?si=MHoZBjBGUrbn_KVs"
+
+  },
+  {
+    "id": 37,
+    "image": "assets/images/k-pop/blackpink2.jpg",
+    "name": "BLACKPINK",
+    "category": "k-pop",
+    "release_date": "MAY 06 2022",
+    "description": "Blackpink is a globally acclaimed South Korean girl group.",
+    "details": "BLACKPINK is a record-breaking South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa. Since debuting in 2016, they have become global fashion icons and the highest-charting female Korean act on the Billboard Hot 100.",
+     "trailers": "https://youtu.be/UTCC8k6KwnQ?si=AbcPOSzotaDj4D_o"
+
+  },
+  {
+    "id": 38,
+    "image": "assets/images/k-pop/bts2.jpg",
+    "name": "BTS",
+    "category": "k-pop",
+    "release_date": "APRIL 05 2020",
+    "description": "RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook.",
+    "details": "BTS is a famous seven-member South Korean music band that officially debuted on June 13, 2013. Known as the Bangtan Boys, they mix pop and hip-hop with deep messages about self-love. Their massive global fan base is called ARMY.",
+                    "trailers": "https://youtu.be/X6EHtzcmiPw?si=AR1Nb1SHn8i27OrX"
+
+  },
+  {
+    "id": 39,
+    "image": "assets/images/k-pop/enhypen2.jpg",
+    "name": "ENHYPEN",
+    "category": "k-pop",
+    "release_date": "JANUARY 21 2022",
+    "description": "ENHYPEN is a powerful, dark-fantasy-themed k-pop boy group.",
+    "details": "ENHYPEN is a South Korean boy band formed by Belift Lab through the 2020 reality show I-Land. The group currently consists of six members: Jungwon, Jay, Jake, Sunghoon, Sunoo, and Ni-ki. They debuted on November 30, 2020.",
+                "trailers": "https://youtu.be/Ck4n1HQMHfY?si=2IVqy6YL86gO3eQa"
+
+  },
+  {
+    "id": 40,
+    "image": "assets/images/k-pop/exo2.jpg",
+    "name": "EXO",
+    "category": "k-pop",
+    "release_date": "APRIL 08 2012",
+    "description": "EXO is a legendary South Korean-Chinese boy band.",
+    "details": "EXO is a highly successful South Korean-Chinese boy band formed by SM Entertainment in 2011. Debuting in 2012, the group originally consisted of 12 members. Renowned as the Kings of K-pop, they popularized multi-concept storytelling.",
+            "trailers": "https://youtu.be/aNDfYPnF6A8?si=pacryAlBVnexl3fK"
+
+  },
+  {
+    "id": 41,
+    "image": "assets/images/k-pop/idle2.jpg",
+    "name": "(G)I-DLE",
+    "category": "k-pop",
+    "release_date": "AUGUST 14 2025",
+    "description": "(G)I-DLE is a self-producing, concept-driven k-pop girl group.",
+    "details": "(G)I-DLE is a popular five-member South Korean girl group under Cube Entertainment that debuted in 2018. The group consists of Miyeon, Minnie, Soyeon, Yuqi, and Shuhua. Known as self-producing idols, they write and produce their own music.",
+        "trailers": "https://youtu.be/qg8vNx_jQYU?si=RebNwlQKIFJkEYsi"
+
+  },
+  {
+    "id": 42,
+    "image": "assets/images/k-pop/ive2.jpg",
+    "name": "IVE",
+    "category": "k-pop",
+    "release_date": "JUNE 05 2020",
+    "description": "IVE is a popular six-member South Korean girl group.",
+    "details": "IVE is a prominent South Korean girl group formed by Starship Entertainment. Debuting in December 2021 with the hit single Eleven, the six-member lineup includes An Yujin, Gaeul, Rei, Jang Wonyoung, Liz, and Leeseo.",
+    "trailers": "https://youtu.be/7X-haM3KJRI?si=ygveY_V0E5eNvTqi"
+  },
+  {
+    "id": 43,
+    "image": "assets/images/k-pop/nct2.jpg",
+    "name": "NCT",
+    "category": "k-pop",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "NCT is a South Korean boy band.",
+    "details": "NCT (Neo Culture Technology) is a South Korean boy band formed by SM Entertainment. Known for their unique unlimited member concept, the group features members divided into several distinct sub-units including NCT U, NCT 127, NCT Dream, WayV, and NCT Wish.",        "trailers": "https://youtu.be/7IkqGw8-jJg?si=gWsA7YqxyztcZwuo"
+
+  },
+  {
+    "id": 44,
+    "image": "assets/images/k-pop/newjeans2.jpg",
+    "name": "NEWJEANS",
+    "category": "k-pop",
+    "release_date": "MARCH 19 2025",
+    "description": "NewJeans is a trendsetting, Y2K-inspired k-pop girl group.",
+    "details": "NewJeans is a highly influential South Korean girl group formed by ADOR. Debuting in 2022, they revolutionized k-pop with their effortless, Y2K-inspired aesthetic and 1990s-style R&B music. Known for massive hits like Ditto and Hype Boy.",
+                 "trailers": "https://youtu.be/d-QmstniDC8?si=o-_52ULS2rl1I5pc"
+
+    
+  },
+  {
+    "id": 45,
+    "image": "assets/images/k-pop/riize2.jpg",
+    "name": "RIIZE",
+    "category": "k-pop",
+    "release_date": "JANUARY 17 2019",
+    "description": "RIIZE is a six-member South Korean boy band.",
+    "details": "RIIZE is a South Korean boy band formed by SM Entertainment. They debuted on September 4, 2023, with the single album Get a Guitar. The group features six members: Shotaro, Eunseok, Sungchan, Wonbin, Sohee, and Anton.",
+             "trailers": "https://youtu.be/2H0duKgnYgE?si=YhXNzf8LnkiTYNWs"
+
+  },
+  {
+    "id": 46,
+    "image": "assets/images/k-pop/straykids2.jpg",
+    "name": "STRAY KIDS",
+    "category": "k-pop",
+    "release_date": "JUNE 25 2021",
+    "description": "Stray Kids is a popular eight-member South Korean boy band.",
+    "details": "Stray Kids is an eight-member South Korean boy band formed by JYP Entertainment through a 2017 reality survival show. Officially debuting on March 25, 2018, the group is globally renowned for its distinct, high-energy sound and self-producing unit 3RACHA.",
+         "trailers": "https://youtu.be/BL5RBogL9CE?si=i-HoyVWS_QdFIgpy"
+
+    
+  },
+  {
+    "id": 47,
+    "image": "assets/images/k-pop/twice2.jpg",
+    "name": "TWICE",
+    "category": "k-pop",
+    "release_date": "MAY 14 2023",
+    "description": "Twice is a famous nine-member South Korean girl group.",
+    "details": "TWICE is a globally successful South Korean girl group formed by JYP Entertainment in 2015 through the reality show Sixteen. The group consists of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu.",
+     "trailers": "https://youtu.be/SCijyd7-wMg?si=7JPmFR1Uo-dY4FNz"
+
+  },
+  {
+    "id": 48,
+    "image": "assets/images/k-pop/t-ara2.jpg",
+    "name": "T-ARA",
+    "category": "k-pop",
+    "release_date": "MAY 14 2023",
+    "description": "T-ara is a popular South Korean girl group.",
+    "details": "T-ara is a South Korean girl group formed by MBK Entertainment in 2009. Known as the chameleons of k-pop, they are famous for their catchy, dance-pop hits like Roly-Poly, Bo Peep Bo Peep, and Lovey-Dovey.",
+                           "trailers": "https://youtu.be/BAvGf74MSCM?si=vji1sDrzGzvUVptc"
+
+  },
+  {
+    "id": 49,
+    "image": "assets/images/k-pop/TXT.jpg",
+    "name": "TXT",
+    "category": "k-pop",
+    "release_date": "MAY 14 2023",
+    "description": "TXT is a five-member South Korean boy group.",
+    "details": "TXT, short for Tomorrow X Together, is a five-member South Korean boy band formed by Big Hit Music in 2019. The group consists of members Soobin, Yeonjun, Beomgyu, Taehyun, and Huening Kai.",
+                       "trailers": "https://youtu.be/ufJ41iBHEyk?si=1OHE1-XS_nGYgriz"
+
+  },
+  {
+    "id": 50,
+    "image": "assets/images/manga/attack on titan.jpg",
+    "name": "ATTACK ON TITAN",
+    "category": "manga",
+    "release_date": "JUNE 15 2021",
+    "description": "Humanity fights for survival against giant humanoid Titans behind massive walls.",
+    "details": "Attack on Titan follows Eren Yeager and his friends as they join the Survey Corps to fight the Titans that threaten humanity's existence behind the walls.",
+                   "trailers": "https://youtu.be/LV-nazLVmgo?si=Cx7HWSjunqZ84Y2j"
+
+  },
+  {
+    "id": 51,
+    "image": "assets/images/manga/death note.webp",
+    "name": "DEATH NOTE",
+    "category": "manga",
+    "release_date": "MAY 06 2022",
+    "description": "A high school student finds a notebook that can kill anyone whose name is written in it.",
+    "details": "Death Note follows Light Yagami, who discovers a supernatural notebook that allows him to kill anyone by writing their name. He begins a quest to create a new world free of crime, while being pursued by the genius detective L.",
+               "trailers": "https://youtu.be/NlJZ-YgAt-c?si=TEID9t9ZSBHP52kg"
+
+  },
+  {
+    "id": 52,
+    "image": "assets/images/manga/demonslayer.jpg",
+    "name": "DEMON SLAYER",
+    "category": "manga",
+    "release_date": "APRIL 05 2020",
+    "description": "Tanjiro Kamado becomes a demon slayer to save his sister and avenge his family.",
+    "details": "Demon Slayer follows Tanjiro Kamado, who becomes a demon slayer after his family is slaughtered and his sister Nezuko is turned into a demon. He joins the Demon Slayer Corps to find a cure for Nezuko and defeat the demons.",
+           "trailers": "https://youtu.be/PV1xN55K1Vo?si=3i6cSar1mVwaewgU"
+
+  },
+  {
+    "id": 53,
+    "image": "assets/images/manga/devil may cry.jpg",
+    "name": "DEVIL MAY CRY",
+    "category": "manga",
+    "release_date": "JANUARY 21 2022",
+    "description": "Dante battles demons in stylish action-packed adventures.",
+    "details":"Devil May Cry follows Dante,a demon hunter who runs the Devil May Cry agency, as he battles powerful demons with style and skill.",
+       "trailers": "https://youtu.be/OlEqHXRrcpc?si=CcY2TTOTC5DiDokd"
+
+  },
+  {
+    "id": 54,
+    "image": "assets/images/manga/dragonball z.avif",
+    "name": "DRAGON BALL",
+    "category": "manga",
+    "release_date": "APRIL 08 2012",
+    "description": "Goku's adventures to become the strongest fighter in the universe.",
+    "details": "Dragon Ball follows Son Goku from childhood through his many adventures, tournaments, and battles to protect Earth and become stronger.",
+                      "trailers": "https://youtu.be/CFgEL7ei8VE?si=7YIBfxWEbWgyh33d"
+
+  },
+  {
+    "id": 55,
+    "image": "assets/images/manga/jujutsu kaisen.webp",
+    "name": "JUJUTSU KAISEN",
+    "category": "manga",
+    "release_date": "AUGUST 14 2025",
+    "description": "Yuji Itadori joins a secret organization of Jujutsu Sorcerers to fight cursed spirits.",
+    "details": "Jujutsu Kaisen follows Yuji Itadori, who swallows a cursed object and becomes host to the powerful curse Sukuna. He joins Tokyo Jujutsu High to fight cursed spirits.",
+                  "trailers": "https://youtu.be/pkKu9hLT-t8?si=YhMJ9AE5lZ7LNLPJ"
+
+  },
+  {
+    "id": 56,
+    "image": "assets/images/manga/naruto.jpg",
+    "name": "NARUTO",
+    "category": "manga",
+    "release_date": "JUNE 05 2020",
+    "description": "A young ninja seeks recognition and dreams of becoming Hokage.",
+    "details": "Naruto follows Naruto Uzumaki, a young ninja who dreams of becoming the strongest ninja and leader of his village, the Hokage, while containing the Nine-Tailed Fox within him.",
+              "trailers": "https://youtu.be/1f0xQIQEqmM?si=F5E13mnBgo1DyHky"
+
+  },
+  {
+    "id": 57,
+    "image": "assets/images/manga/tokyo ghoul.avif",
+    "name": "TOKYO GHOUL",
+    "category": "manga",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "Ken Kaneki becomes a half-ghoul and struggles between two worlds.",
+    "details": "Tokyo Ghoul follows Ken Kaneki, who becomes a half-ghoul after a chance encounter and must navigate the dangerous world of ghouls while trying to retain his humanity.",
+          "trailers": "https://youtu.be/wiL63YN5aZo?si=556h6U9x5NmV0fP2"
+
+  },
+  {
+    "id": 58,
+    "image": "assets/images/manga/ONE PIECE.jpg",
+    "name": "ONE PIECE",
+    "category": "manga",
+    "release_date": "MARCH 19 2025",
+    "description": "Monkey D. Luffy sets sail to become the King of the Pirates.",
+    "details": "One Piece follows Monkey D. Luffy and his crew, the Straw Hat Pirates, as they search for the legendary treasure One Piece to make Luffy the King of the Pirates.",
+      "trailers": "https://youtu.be/MCb13lbVGE0?si=vGKr0PXA7we5l4rg"
+
+  },
+  {
+    "id": 59,
+    "image": "assets/images/manga/one-punch-man-vol34.jpg",
+    "name": "ONE PUNCH MAN",
+    "category": "manga",
+    "release_date": "JANUARY 17 2019",
+    "description": "Saitama is a hero who can defeat any opponent with a single punch.",
+    "details": "One Punch Man follows Saitama, a hero who has grown bored after becoming so powerful that he can defeat any enemy with one punch. He seeks a worthy opponent while dealing with the Hero Association.",
+                           "trailers": "https://youtu.be/X4e3oZaPtaE?si=tmyD_z4i2wNzXOHL"
+
+  },
+  {
+    "id": 60,
+    "image": "assets/images/manga/VAGABOND.jpg",
+    "name": "VAGABOND",
+    "category": "manga",
+    "release_date": "APRIL 22 2018",
+    "description": "The life of legendary swordsman Miyamoto Musashi.",
+    "details": "Vagabond is a fictionalized account of the life of Miyamoto Musashi, one of Japan's most famous swordsmen, based on the novel Musashi by Eiji Yoshikawa.",
+                       "trailers": "https://youtu.be/kZhw6gclUhw?si=jVx1ghBoikT70zCx"
+
+  },
+  {
+    "id": 61,
+    "image": "assets/images/manga/VINLAND SAGA.jpg",
+    "name": "VINLAND SAGA",
+    "category": "manga",
+    "release_date": "JUNE 25 2021",
+    "description": "A young Viking seeks revenge and discovers a greater purpose.",
+    "details": "Vinland Saga follows Thorfinn, a young Viking warrior seeking revenge for his father's death, who eventually discovers a path beyond violence toward a peaceful land called Vinland.",
+                   "trailers": "https://youtu.be/H3fS-bZ4e2E?si=5Q02YpUBlLXVpz2A"
+
+  },
+  {
+    "id": 62,
+    "image": "assets/images/manga/blue box.jpg",
+    "name": "BLUE BOX",
+    "category": "manga",
+    "release_date": "MAY 14 2023",
+    "description": "A high school romance centered around badminton and basketball.",
+    "details": "Blue Box follows Taiki Inomata, a badminton player who falls for basketball star Chinatsu Hoshino after she transfers to his school and starts living at his family's dojo.",
+               "trailers": "https://youtu.be/tcK9Eghsfq8?si=UcHFAQmGd0BZeWy_"
+
+
+  },
+  {
+    "id": 63,
+    "image": "assets/images/manga/dandadan-vol-17-pre-order-7378814.webp",
+    "name": "DANDADAN",
+    "category": "manga",
+    "release_date": "MAY 14 2023",
+    "description": "A boy who believes in aliens and a girl who believes in ghosts team up against supernatural threats.",
+    "details": "Dandadan follows Momo Ayase and Ken Takakura (Okarun) as they investigate the occult and face both ghosts and aliens in wild, action-packed adventures.",
+           "trailers": "https://youtu.be/0XJxfbN36Uw?si=9dayph98PDNxeLW6"
+
+  },
+  {
+    "id": 64,
+    "image": "assets/images/movies/armyofthieves2.jpg",
+    "name": "ARMY OF THIEVES",
+    "category": "movies",
+    "release_date": "October 29, 2021",
+    "description": "A skilled safecracker joins a team for a daring heist across Europe.",
+    "details":"Army of Thieves is a 2021 romantic comedy heist film directed by and starring Matthias Schweighöfer. Serving as a prequel to Army of the Dead,the story follows a small-town bank teller, Dieter, who is recruited to crack three legendary high-security safes across Europe.",
+       "trailers": "https://youtu.be/Ith2WetKXlg?si=Y0GHkZYJ1NKcF6fa"
+
+  },
+  {
+    "id": 65,
+    "image": "assets/images/movies/deadpool2.jpg",
+    "name": "DEADPOOL 2",
+    "category": "movies",
+    "release_date": "February 12, 2016",
+    "description": "A wisecracking antihero seeks revenge after a dangerous experiment changes his life.",
+    "details": "Deadpool 2 is a 2018 superhero comedy film starring Ryan Reynolds as Wade Wilson. After a personal tragedy, Deadpool forms a ragtag team of mutants called the X-Force to protect a young mutant from Cable, a time-traveling cyborg.",
+   "trailers": "https://youtu.be/20bpjtCbCz0?si=ES9aPeKp-a7PUJWb"
+
+  },
+  {
+    "id": 66,
+    "image": "assets/images/movies/demoncity2.jpg",
+    "name": "DEMON CITY",
+    "category": "movies",
+    "release_date": "February 27, 2025",
+    "description": "A former hitman fights back against a criminal organization after losing everything.",
+    "details": "Demon City (2025) is an ultra-violent Japanese action thriller on Netflix. It follows Shūhei Sakata, an ex-hitman who awakens from a 12-year coma and unleashes a brutal quest for revenge against the syndicate that murdered his family.",
+                      "trailers": "https://youtu.be/q-djvN7i5us?si=wwOcItza_zSS1Q-v"
+
+  },
+  {
+    "id": 67,
+    "image": "assets/images/movies/escaperoom2.jpg",
+    "name": "ESCAPE ROOM",
+    "category": "movies",
+    "release_date": "January 4, 2019",
+    "description": "Six strangers must solve deadly puzzles to survive a mysterious escape room.",
+    "details": "The 2019 psychological thriller Escape Room follows six strangers invited to compete for a $10,000 prize. They soon discover the rooms contain deadly traps tied to their past traumas.",
+                  "trailers": "https://youtu.be/6dSKUoV0SNI?si=X-df9S9aXJLZZ16s"
+
+  },
+  {
+    "id": 68,
+    "image": "assets/images/movies/frankstein2.jpg",
+    "name": "FRANKENSTEIN",
+    "category": "movies",
+    "release_date": "November 7, 2025",
+    "description": "A brilliant scientist creates a mysterious creature with terrifying consequences.",
+    "details": "The classic 1931 horror film Frankenstein follows Dr. Henry Frankenstein as he assembles a human body from stolen corpse parts and brings it to life, with tragic results.",
+              "trailers": "https://youtu.be/8aulMPhE12g?si=QECB_DZudOa9ybrA"
+
+  },
+  {
+    "id": 69,
+    "image": "assets/images/movies/iwanttoeatyourpancreas.jpg",
+    "name": "I WANT TO EAT YOUR PANCREAS",
+    "category": "movies",
+    "release_date": "September 1, 2018",
+    "description": "A quiet boy discovers a secret about his classmate and forms an unforgettable bond.",
+    "details": "I Want to Eat Your Pancreas is a 2018 anime film. An introverted boy discovers his bubbly classmate Sakura has a terminal pancreatic disease. They grow close, sharing her final months together.",
+          "trailers": "https://youtu.be/MmoBvmJA9XI?si=ElMSne_Z5vYrnqaK"
+
+  },
+  {
+    "id": 70,
+    "image": "assets/images/movies/spidermanhomecoming2.jpg",
+    "name": "SPIDER-MAN: HOMECOMING",
+    "category": "movies",
+    "release_date": "July 7, 2017",
+    "description": "Peter Parker balances high school life while learning to become a real superhero.",
+    "details": "In Spider-Man: Homecoming (2017), 15-year-old Peter Parker balances high school life in Queens with his secret superhero identity while fighting The Vulture under the guidance of Tony Stark.",
+      "trailers": "https://youtu.be/DiTECkLZ8HM?si=kcEAH4lzdf7Bvf_o"
+
+  },
+  {
+    "id": 71,
+    "image": "assets/images/movies/jurassicworld2.jpg",
+    "name": "JURASSIC WORLD",
+    "category": "movies",
+    "release_date": "June 12, 2015",
+    "description": "A dinosaur theme park turns into a deadly fight for survival.",
+    "details": "Jurassic World (2015) is set on the fully functioning dinosaur theme park Isla Nublar. Chaos erupts when a genetically modified predator, the Indominus rex, escapes.",
+                  "trailers": "https://youtu.be/RFinNxS5KN4?si=YeHZVAWaZQjLx9R9"
+
+  },
+  {
+    "id": 72,
+    "image": "assets/images/movies/mercyfornone2.jpg",
+    "name": "MERCY FOR NONE",
+    "category": "movies",
+    "release_date": "June 6, 2025",
+    "description": "A former gangster returns to settle a personal score and uncover the truth.",
+    "details": "Mercy for None is a 2025 South Korean action-noir series on Netflix. It stars So Ji-sub as Nam Gi-jun, a former gang enforcer who returns to Seoul to seek revenge for his younger brother's murder.",
+              "trailers": "https://youtu.be/GV6IZ14FZX8?si=LMz6nFsZh8zi9lKS"
+
+  },
+  {
+    "id": 73,
+    "image": "assets/images/movies/moneyheist2.jpg",
+    "name": "MONEY HEIST",
+    "category": "movies",
+    "release_date": "April 6, 2018",
+    "description": "A group of criminals carries out a carefully planned heist while facing intense pressure.",
+    "details": "Money Heist (La Casa de Papel) is a Spanish crime drama centered around meticulously planned bank robberies led by The Professor. A group of code-named thieves target the Royal Mint of Spain and the Bank of Spain.",
+          "trailers": "https://youtu.be/_InqQJRqGW4?si=X3l0N8e7oDtVUjSp"
+
+  },
+  {
+    "id": 74,
+    "image": "assets/images/movies/MYNAME2.jpg",
+    "name": "MY NAME",
+    "category": "movies",
+    "release_date": "October 15, 2021",
+    "description": "A determined woman joins a powerful crime organization to uncover the truth.",
+    "details": "My Name follows a woman who joins a crime organization to uncover the truth behind her father's death, navigating loyalty, identity, and revenge.",
+      "trailers": "https://youtu.be/MaJ7ZT70ve4?si=6PYn7Wwp1s3m13Rk"
+
+  },
+  {
+    "id": 75,
+    "image": "assets/images/movies/TERRIFIER.jpg",
+    "name": "TERRIFIER 3",
+    "category": "movies",
+    "release_date": "October 11, 2024",
+    "description": "Art the Clown returns to spread terror and chaos during the Christmas season.",
+    "details": "Terrifier 3 is a 2024 independent supernatural slasher film. Art the Clown unleashes a gruesome rampage on Miles County during Christmas Eve while survivor Sienna Shaw returns to fight him.",
+                  "trailers": "https://youtu.be/-gHuf0ZAU78?si=yYqNtOKlXeedPHnp"
+
+  },
+  {
+    "id": 76,
+    "image": "assets/images/movies/INCEPTION2.jpg",
+    "name": "INCEPTION",
+    "category": "movies",
+    "release_date": "July 16, 2010",
+    "description": "A skilled thief who steals secrets through dreams is given a chance to erase his past.",
+    "details": "Inception follows a skilled thief who infiltrates targets' minds through shared dream technology to steal corporate secrets. He takes a final mission to plant an idea into a CEO's subconscious.",
+              "trailers": "https://youtu.be/YoHD9XEInc0?si=awYhX-3UpuikMl3B"
+
+  },
+  {
+    "id": 77,
+    "image": "assets/images/movies/INTERSTELLAR2.jpg",
+    "name": "INTERSTELLAR",
+    "category": "movies",
+    "release_date": "November 7, 2014",
+    "description": "A group of explorers travels through a wormhole in space.",
+    "details": "Interstellar (2014) is an epic sci-fi film directed by Christopher Nolan. Set in a dystopian future where Earth is dying, a group of NASA astronauts travel through a wormhole to find a new home for humanity.",
+          "trailers": "https://youtu.be/zSWdZVtXT7E?si=3F4-OVrpQhs5LEKD"
+
+  },
+  {
+    "id": 78,
+    "image": "assets/images/movies/DARK KNIGHT2.jpg",
+    "name": "THE DARK KNIGHT",
+    "category": "movies",
+    "release_date": "July 18, 2008",
+    "description": "Batman faces a dangerous criminal who creates chaos.",
+    "details": "The Dark Knight (2008), directed by Christopher Nolan, follows Batman teaming up with James Gordon and Harvey Dent to dismantle Gotham's mob, only to face the Joker, an anarchist mastermind.",
+          "trailers": "https://youtu.be/AfQ13jsLDms?si=KpzVsE2mJBzVz5hB"
+
+  },
+  {
+    "id": 79,
+    "image": "assets/images/tv-shows/stranger things.jpg",
+    "name": "STRANGER THINGS",
+    "category": "tv-shows",
+    "release_date": "JUNE 15 2021",
+    "description": "A group of friends uncover mysterious supernatural events in their small town.",
+    "details": "Stranger Things follows a group of young friends in Hawkins whose lives change when a boy disappears and strange supernatural events begin. They discover a secret laboratory and a frightening alternate world called the Upside Down.",
+      "trailers": "https://youtu.be/AfQ13jsLDms?si=KpzVsE2mJBzVz5hB"
+
+  },
+  {
+    "id": 80,
+    "image": "assets/images/tv-shows/all of us dead.jpg",
+    "name": "ALL OF US ARE DEAD",
+    "category": "tv-shows",
+    "release_date": "MAY 06 2022",
+    "description": "Students become trapped inside their school after a zombie outbreak begins.",
+    "details": "All of Us Are Dead follows high school students trapped inside their school after a zombie outbreak. They must work together to survive while the outbreak spreads beyond the school.",
+             "trailers": "https://youtu.be/IN5TD4VRcSM?si=Bkl-_vL-cgkO4Z6o"
+
+  },
+  {
+    "id": 81,
+    "image": "assets/images/tv-shows/harry potter.jpg",
+    "name": "HARRY POTTER",
+    "category": "tv-shows",
+    "release_date": "APRIL 05 2020",
+    "description": "Harry Potter discovers that he is a young wizard and begins his journey at Hogwarts.",
+    "details": "Harry Potter follows a young boy who discovers he is a wizard and is invited to Hogwarts. With friends Ron and Hermione, he faces dangerous challenges and the dark wizard Voldemort.",
+         "trailers": "https://youtu.be/17ywQS6XO-M?si=MX2ZvqNDHsi8TjzA"
+
+  },
+  {
+    "id": 82,
+    "image": "assets/images/tv-shows/images (1).jpg",
+    "name": "BREAKING BAD",
+    "category": "tv-shows",
+    "release_date": "JANUARY 21 2022",
+    "description": "A chemistry teacher turns to making illegal drugs after facing a serious personal crisis.",
+    "details": "Breaking Bad tells the story of Walter White, a high school chemistry teacher who begins producing illegal drugs after a health diagnosis. He partners with Jesse Pinkman and enters the dangerous world of crime.",
+     "trailers": "https://youtu.be/2gTC4uWP3_Y?si=Ezz9OtH2L2KUI0x1"
+
+    
+  },
+  {
+    "id": 83,
+    "image": "assets/images/tv-shows/lucifer.avif",
+    "name": "LUCIFER",
+    "category": "tv-shows",
+    "release_date": "DECEMBER 08 2021",
+    "description": "Lucifer Morningstar leaves Hell and starts a new life in Los Angeles.",
+    "details": "Lucifer follows Lucifer Morningstar, who leaves Hell and moves to Los Angeles. He becomes involved with detective Chloe Decker while helping solve unusual criminal cases.",
+      "trailers": "https://youtu.be/3mTh2joPPj8?si=AISM3PjRlu16Jijy"
+
+
+  },
+  {
+    "id": 84,
+    "image": "assets/images/tv-shows/peaky-blinders.jpg",
+    "name": "PEAKY BLINDERS",
+    "category": "tv-shows",
+    "release_date": "AUGUST 14 2017",
+    "description": "The Shelby family runs a powerful criminal gang in post-war Birmingham.",
+    "details": "Peaky Blinders follows the Shelby family and their powerful criminal organization in Birmingham after World War I. Tommy Shelby works to expand their influence while facing dangerous enemies.",
+             "trailers": "https://youtu.be/lcvUGs3xaDM?si=UlIb69KXWKbYE0QV"
+
+  },
+  {
+    "id": 85,
+    "image": "assets/images/tv-shows/pirates of the caribbean.jpg",
+    "name": "PIRATES OF THE CARIBBEAN",
+    "category": "tv-shows",
+    "release_date": "UPCOMING",
+    "description": "Captain Jack Sparrow travels across the seas on dangerous pirate adventures.",
+    "details": "Pirates of the Caribbean follows the adventures of Captain Jack Sparrow as he encounters rival pirates, cursed treasures, and supernatural forces.",
+         "trailers": "https://youtu.be/naQr0uTrH_s?si=pACbP1-qvWWt_J-r"
+
+  },
+  {
+    "id": 86,
+    "image": "assets/images/tv-shows/resident-evil.jpg",
+    "name": "RESIDENT EVIL",
+    "category": "tv-shows",
+    "release_date": "SEPTEMBER 25 2024",
+    "description": "A deadly virus spreads across the world, creating terrifying monsters and chaos.",
+    "details": "Resident Evil takes place in a world threatened by deadly viruses and terrifying creatures. Survivors struggle to stay alive while uncovering secrets behind powerful corporations and mysterious outbreaks.",
+     "trailers": "https://youtu.be/79Sd4GtOXuI?si=4RAzKSGLuy3wcNpS"
+
+  },
+  {
+    "id": 87,
+    "image": "assets/images/tv-shows/snow piercer.jpg",
+    "name": "SNOWPIERCER",
+    "category": "tv-shows",
+    "release_date": "MARCH 19 2025",
+    "description": "Humanity's survivors live aboard a massive train after Earth becomes frozen.",
+    "details": "Snowpiercer is set in a future where Earth has become frozen. The remaining survivors live aboard a massive train that constantly travels around the planet, divided by social class.",
+    "trailers": "https://youtu.be/lGcJL6TG5cA?si=QAVWKsPcG5XgM0EX"
+
+
+  },
+  {
+    "id": 88,
+    "image": "assets/images/tv-shows/squid game.jpg",
+    "name": "SQUID GAME",
+    "category": "tv-shows",
+    "release_date": "JANUARY 17 2019",
+    "description": "Hundreds of desperate contestants enter a mysterious competition for a huge cash prize.",
+    "details": "Squid Game follows hundreds of people struggling financially who are invited to a mysterious competition. They soon discover that losing the games has deadly consequences.",
+    "trailers": "https://youtu.be/Ed1sGgHUo88?si=KHwvSuOLtz65T0qU"
+  },
+  {
+    "id": 89,
+    "image": "assets/images/tv-shows/the witcher.jpg",
+    "name": "THE WITCHER",
+    "category": "tv-shows",
+    "release_date": "APRIL 22 2018",
+    "description": "Geralt of Rivia is a monster hunter who travels through a dangerous fantasy world.",
+    "details": "The Witcher follows Geralt of Rivia, a skilled monster hunter. His destiny becomes connected with Princess Ciri and the powerful sorceress Yennefer in a larger conflict involving magic, politics, and war.",
+    "trailers": "https://youtu.be/HK9dU6JIroU?si=D-quId0GOdhTfBuD"
+  },
+  {
+    "id": 90,
+    "image": "assets/images/tv-shows/the-lincoln-lawyer-.avif",
+    "name": "THE LINCOLN LAWYER",
+    "category": "tv-shows",
+    "release_date": "JUNE 25 2021",
+    "description": "A skilled defense lawyer runs his legal practice from the back seat of his Lincoln.",
+    "details": "The Lincoln Lawyer follows Mickey Haller, a talented defense attorney who runs his practice from the back seat of his Lincoln. He takes on difficult criminal cases while searching for the truth.",
+        "trailers": "https://youtu.be/pVvVNbLf7Ig?si=51_wEPN0eiKGxtT-"
+
+  },
+  {
+    "id": 91,
+    "image": "assets/images/tv-shows/suits.jpg",
+    "name": "SUITS",
+    "category": "tv-shows",
+    "release_date": "MAY 14 2023",
+    "description": "A talented young man with a brilliant memory gets a job at a prestigious law firm.",
+    "details": "Suits follows Mike Ross, a young man with an exceptional memory who gets a job at a prestigious law firm despite not having a law degree. He works with Harvey Specter while keeping his secret hidden.",
+    "trailers": "https://youtu.be/Ab2YIbP5xw8?si=uD3LDofDNOleC0hP"
+  },
+  {
+    "id": 92,
+    "image": "assets/images/tv-shows/TEACH.jpg",
+    "name": "TEACH YOU A LESSON",
+    "category": "tv-shows",
+    "release_date": "MAY 14 2023",
+    "description": "A teacher faces challenging situations while trying to guide and educate her students.",
+    "details": "Teach You a Lesson follows characters dealing with challenging situations while learning important lessons about life, relationships, responsibility, and personal growth.",
+  "trailers": "https://youtu.be/LdezlX84py0?si=mMBrAXqXnyxCFjp7"
+}
+
+]

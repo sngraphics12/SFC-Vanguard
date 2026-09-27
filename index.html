@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+        <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
+    <script src="./assets/js/jquery-4.0.0.min.js"></script>
+
+
+    <style>
+      
+    body {
+      background: #050A0F;
+      font-family: Arial;
+    }
+
+    #chatButton {
+      position: fixed;
+      bottom: 22px;
+      right: 22px;
+      padding: 15px;
+      background: rgb(11, 0, 19);
+      color: white;
+      border-radius: 50%;
+      font-size: 22px;
+      border: none;
+      cursor: pointer;
+      box-shadow: 0 6px 15px rgb(76, 75, 76);
+      animation: float 2s ease-in-out infinite;
+    }
+
+    @keyframes float{
+
+      0% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-6px);
+      }
+
+      100% {
+        transform: translateY(0);
+       }
+    }
+
+    #chatBox {
+      position: fixed;
+      bottom: 90px;
+      right: 22px;
+      width: 450px;
+      height: 620px;
+      background: white;
+      border-radius: 18px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, .3);
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #header {
+      background: rgb(14, 0, 0);
+      color: white;
+      padding: 14px;
+      font-size: 20px;
+      text-align: center;
+    }
+
+    #messages {
+      flex: 1;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      background: #f3f4f6;
+    }
+
+    .user {
+      align-self: flex-end;
+      background: #ffc107;
+      padding: 12px 16px;
+      margin: 8px 0;
+      border-radius: 14px;
+      max-width: 70%;
+      font-size: 16px;
+    }
+
+    .bot {
+      align-self: flex-start;
+      background: rgb(11, 0, 19);
+      color: white;
+      padding: 12px 16px;
+      margin: 8px 0;
+      border-radius: 14px;
+      max-width: 70%;
+      font-size: 16px;
+    }
+
+    #input {
+      display: flex;
+      padding: 10px;
+      border-top: 1px solid #ccc;
+    }
+
+    #userInput {
+      flex: 1;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #bbb;
+      font-size: 15px;
+    }
+
+    #sendBtn {
+      margin-left: 10px;
+      padding: 10px 18px;
+      background: rgb(11, 0, 19);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    
+  </style>
+    
+    
+</head>
+<body>
+    <header>
+       
+        <div class="logo-header">
+          <div class="bars">
+             <label for="check">
+            <i class="fa-solid fa-bars"></i>
+            </label>
+            </div>
+            <div class="head">
+            <h1 class="">Fan <span>Realm</span></h1>
+            <p>All Fandom  One Place</p>
+            </div>
+        </div>
++
+        <div class="search-bar">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="search" placeholder="Search for your favorite fandoms">
+        </div>
+
+        <input id="check" type="checkbox">
+
+                    <div class="mobile-menu">
+                    <a href="" id="m_home">Home</a>
+                    <a href="" id="m_products">Gaming</a>
+                    <a href="" id="m_about">Movies</a>
+                    <a href="" id="m_contact">Tv Shows</a>
+                    <a href="" id="m_feedback">K-Pop</a>
+                    <a href="" id="m_comics">Comics</a>
+                    <a href="" id="m_manga">Manga</a>
+                    <a href="" id="m_events">Events</a>
+                    <a href="" id="m_store">Store</a>
+                    <a href="" id="m_community">Community</a>
+                    <a href="" id="m_about">About Us</a>
+                    <a href="" id="m_about">Contact Us</a>
+                    <a href="" id="m_about">Feedback</a>
+
+                </div>
+        <div class="side-functions">
+            <ul>
+
+              
+                <div class="icon">
+               <i class="fa-regular fa-bookmark"></i> 
+
+                <li><a href="">Bookmarks</a></li>
+                </div>
+
+                <div class="icon">
+                <i class="fa-solid fa-cart-plus"></i>
+                <li><a href="cart.html">Cart</a></li>
+                </div>
+
+
+            </ul>
+        </div>
+    </header>
+
+      
+    <aside class="sidebar">
+        <nav>
+            <a class=" navlinks" href="" id="home">
+                <i class="fa-solid fa-house"></i>
+                Home</a>
+
+                
+            <a class=" navlinks" href="" id="articles">
+                <i class="fa-solid fa-newspaper"></i>
+                Articles</a>
+
+                 <a class=" navlinks" href="" id="store">
+                <i class="fa-solid fa-store"></i>
+                Store</a>
+
+                 <a class=" navlinks" href="" id="character">
+                <i class="fa-solid fa-users-viewfinder"></i>
+                Characters</a>
+
+
+                
+                 <a class=" navlinks" href="" id="gallery">
+                <i class="fa-solid fa-images"></i>
+                Gallery</a>
+
+
+            <a class="navlinks" href="" id="events">
+              <i class="fa-regular fa-calendar"></i>Events</a>
+            
+
+           
+          
+
+              <div class="more">
+            <a class="navlinks" href="" id="more">
+              <i class="fa-solid fa-users"></i>More</a>
+
+              <a class="navlinks hide" href="" id="about">
+              About us</a>
+
+              <a class="navlinks hide" href="" id="contact">
+              Contact us</a>
+
+              <a class="navlinks hide" href="" id="sitemap">
+              Sitemap</a>
+
+              </div>
+            
+
+            <div class="img">
+              <p>  Different <br>Fandoms<br>same Platform.</p>
+            </div>
+        
+
+   
+    </aside>
+
+
+
+    <div id="content">
+
+    </div>
+
+
+  <button id="chatButton"><i class="fa-solid fa-comment"></i></button>
+
+  <div id="chatBox">
+    <div id="header">Chat Box</div>
+    <div id="messages"></div>
+    <div id="input">
+      <input type="text" id="userInput" placeholder="Type your message here...">
+      <button id="sendBtn">Send</button>
+    </div>
+  </div>
+
+  <script>
+
+    let msgBox = document.getElementById("messages");
+    let input = document.getElementById("userInput");
+    let chatBox = document.getElementById("chatBox");
+
+    let chatbotData = [];
+
+    fetch("assets/js/chatbot.json")
+      .then(function (response){
+        return response.json();
+      })
+      .then(function (data) {
+        chatbotData = data.chatbot;
+      });
+
+    document.getElementById("chatButton").onclick = function(){
+
+      if(chatBox.style.display == "flex"){
+        chatBox.style.display = "none";
+      }
+      
+      else{
+        chatBox.style.display = "flex";
+      }
+    }
+
+    function addMsg(text,type){
+
+      let message = document.createElement("div");
+
+      message.className = type;
+
+      message.textContent = text;
+
+      msgBox.appendChild(message);
+
+      msgBox.scrollTop = msgBox.scrollHeight;
+
+    }
+
+    function getAnswer(question){
+
+      question = question.toLowerCase().trim();
+
+      let result = chatbotData.find(function(item){
+
+        return item.question.toLowerCase() == question;
+
+      });
+
+      if(result){
+        return result.answer;
+
+      } 
+      else{
+        return "Sorry, I didn't understand that. Please try again.";
+      }
+    }
+
+    function send(){
+
+      let text = input.value.trim();
+
+      if(text == ""){
+        return
+
+      }
+
+      addMsg(text,"user");
+      input.value = "";
+
+      let answer = getAnswer(text);
+
+      setTimeout(function(){
+
+        addMsg(answer, "bot");
+
+      }, 500);
+    }
+
+    document.getElementById("sendBtn").onclick = send;
+
+    input.onkeyup = function(event){
+
+      if(event.key == "Enter"){
+
+        send();
+      }
+
+    }
+    
+  </script>
+    
+   <script src="./assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,271 @@
+[
+
+    {
+        "id" : 1,
+        "image":"Assets/images/battlefield.jpg",
+        "name": "BATTLEFIELD 6",
+        "category": "games",
+        "release_date":"JUNE 15 2021",
+        "type": "Action",
+        "tags": ["action", "war"],
+        "popularity": 20,
+        "description" : "Battlefield 6 is an online-only first-person shooter developed by Battlefield Studios."
+        
+    },
+    {
+        "id" : 2,
+         "image":"assets/images/call of duty.jpg",
+        "name" : "CALL OF DUTY",
+        "category": "games",
+        "type": "action",
+        "tags": ["action", "war"],
+        "popularity": 21,
+        "release_date":"MAY 06 2022",
+        "description" : "A story-driven single-player mode with cinematic missions set in various historical eras."
+    },
+    {
+        "id" : 3,
+         "image":"Assets/images/counter strike.jpg",
+        "name" : "COUNTER STRIKE",
+        "category": "games",
+        "type": "action",
+        "tags": ["action", "shooter"],
+        "popularity": 16,
+        "release_date":"APRIL 05 2020",
+        "description" : "Terrorists trying to plant a  bomb at specific sites or eliminate the Counter Terrorists team."
+    },
+
+
+    {
+        "id": "1",
+        "image": "Assets/images/army of thieves.jpg",
+        "name": "ARMY OF THIEVES",
+        "category": "MOVIES",
+        "type": "prequel film",
+        "tags": ["romance", "comedy","heist"],
+        "popularity": 68,
+        "release_date": "October 29, 2021",
+        "description": "A skilled safecracker joins a team for a daring heist across Europe."
+    },
+    {
+        "id": "2",
+        "image": "Assets/images/deadpool.jpg",
+        "name": "DEADPOOL 1",
+        "category": "MOVIES",
+        "type": "superhero film",
+        "tags": ["action", "comedy","superhero"],
+        "popularity": 54,
+        "release_date": "February 12, 2016",
+        "description": "A wisecracking antihero seeks revenge after a dangerous experiment changes his life."
+    },
+    {
+        "id": "3",
+        "image": "Assets/images/demon city.jpg",
+        "name": "DEMON CITY",
+        "category": "MOVIES",
+        "type": "anime",
+        "tags": ["action", "thriller","mystery"],
+        "popularity": 57,
+        "release_date": "February 27, 2025",
+        "description": "A former hitman fights back against a criminal organization after losing everything."
+    },
+    {
+        "id": "4",
+        "image": "Assets/images/escape room.jpg",
+        "name": "ESCAPE ROOM",
+        "category": "MOVIES",
+        "type": "thriller",
+        "tags": ["fantasy", "thriller","mystery"],
+        "popularity": 17.5,
+        "release_date": "January 4, 2019",
+        "description": "Six strangers must solve deadly puzzles to survive a mysterious escape room."
+    },
+
+        {
+        "id" : 1,
+        "image":"Assets/images/SPIDERMAN HOMECOMING.jpg",
+        "name": "SpiderMan",
+        "category":"TVSHOWS",
+        "type": "superhero film",
+        "tags": ["action", "superhero","sci-fic"],
+        "popularity": 62,
+        "release_date":"JUNE 15 2021",
+        "description" : "Spider Man is a great show espacially for catching upto Avengers Endgame."
+        
+    },
+    {
+        "id" : 2,
+         "image":"Assets/images/venom.jpg",
+        "name" : "Venom",
+        "category": "TVSHOWS",
+        "type": "anti-hero film",
+        "tags": ["action", "sci-fic","suoerhero"],
+        "popularity": 37.4,
+        "release_date":"MAY 06 2022",
+        "description" : "A story-driven single-player mode with cinematic missions set in various historical eras."
+    },
+
+    {
+        "id" : 3,
+         "image":"Assets/images/titanic.jpg",
+        "name" : "Titanic",
+        "category": "TVSHOWS",
+        "type": "melodrama",
+        "tags": ["fiction", "romance","drama"],
+        "popularity": 64 ,
+        "release_date":"APRIL 05 2020",
+        "description" : "A heartbreaking famous romance story of titanic with a great plots and lessons"
+    },
+    {
+        "id" : 4,
+         "image":"Assets/images/jurassic world.jpg",
+        "name": "Jurasic world",
+        "category": "TVSHOWS",
+        "type": "action",
+        "tags": ["thriller", "disaster","sci-fic"],
+        "popularity": 57,
+        "release_date":"JANUARY 21 2022",
+        "description" : "A intense And Interersting Story Of Dinosours Reborn In Human World"
+    },
+{
+        "id" : 5,
+         "image":"Assets/images/mortal shell.jpg",
+        "name" : "Mortal Shell",
+        "category": "games",
+        "type": "action",
+        "tags": ["dark fantasy", "aesthetic"],
+        "popularity": 68,
+        "release_date":"DECEMBER 08 2021",
+        "description" : "A ruthless known as the Locust erupts from underground burrows to slaughter human civilization"
+    },
+
+        {
+        "id" : 1,
+        "image":"Assets/images/naruto.jpg",
+        "name": "Arthur",
+        "category": "ANIME",
+        "type": "fictional animation",
+        "tags": ["action", "rommance"],
+        "popularity": 0.21,
+        "release_date":"JUNE 15 2021",
+        "description" : "Arthur Leywin is the main protagonist of the high fantasy anime series Naruto"
+        
+    },
+    {
+        "id" : 2,
+         "image":"Assets/images/pika.jpg",
+        "name" : "Pokemon",
+        "category": "ANIME",
+        "type": "fictional animation",
+        "tags": ["action", "emotional","comedy"],
+        "popularity": 78,
+        "release_date":"MAY 06 2022",
+        "description" : "Meliodas is the Dragon's Sin of Wrath and the main protagonist of The Seven Deadly Sins series"
+    },
+    {
+        "id" : 3,
+         "image":"Assets/images/gojo.jpg",
+        "name" : "BAN",
+        "category": "ANIME",
+        "type": "fictional animation",
+        "tags": ["action", "sci-fic"],
+        "popularity": 19.80,
+        "release_date":"APRIL 05 2020",
+        "description" : "Ban is the Fox's Sin of Greed in the anime and manga series The Seven Deadly Sins"
+    },
+    {
+        "id" : 4,
+         "image":"Assets/images/_Miyamoto Musashi.jpg",
+        "name": "CATH",
+        "category": "ANIME",
+        "type": "fiction",
+        "tags": ["action", "war"],
+        "popularity": 17.7,
+        "release_date":"JANUARY 21 2022",
+        "description" : "Cath (also known as Cath Palug) is an evil, greedy, and nihilistic monster in The Seven Deadly Sins"
+    },
+{
+        "id" : 5,
+         "image":"Assets/images/Tanjiro's Tranquil Moment_ Perfect for Your Desktop.jpg",
+        "name" : "DEMON KING",
+        "category": "ANIME",
+        "type": "romcom",
+        "tags": ["action", "war","emotional"],
+        "popularity": 19.8,
+        "release_date":"DECEMBER 08 2021",
+        "description" : "The Demon King is the supreme ruler of the Demon Clan and the main antagonist."
+    },
+
+        {
+        "id" : 1,
+        "image":"Assets/images/babymonster.jpg",
+        "name": "BABY MONSTER",
+        "category":"K-POP",
+        "type": "band",
+        "tags": ["k-pop", "lyrical intruments"],
+        "popularity": 14.7,
+        "release_date":"JUNE 15 2021",
+        "description" : " Ruka, Pharita, Asa, Ahyeon, Rami, Rora, and Chiquita. The group is multinational, including members from South Korea and japan"
+        
+    },
+    {
+        "id" : 2,
+         "image":"Assets/images/bts.jpg",
+        "name" : "BLACK PINK",
+        "category": "K-POP",
+        "type": "band",
+        "tags": ["song-writer", "lyrical instrument"],
+        "popularity": 15,
+        "release_date":"MAY 06 2022",
+        "description" : "Blackpink is a globally acclaimed South Korean girl group formed by YG"
+    },
+    {
+        "id" : 3,
+         "image":"Assets/images/bts.webp",
+        "name" : "BTS",
+        "category": "K-POP",
+        "type": "band",
+        "tags": ["dancers", "romantic"],
+        "popularity": 42,
+        "release_date":"APRIL 05 2020",
+        "description" : " RM (leader and rapper), Jin (vocalist), Suga (rapper and producer)."
+    },
+
+        {
+        "id" : 1,
+        "image":"Assets/images/Sung jinwoo.jpg",
+        "name": "Solo leveling",
+        "category":"MANGA",
+        "type": "action",
+        "tags": ["action", "romance"],
+        "popularity": 95,
+        "release_date":"JUNE 15 2021",
+        "description" : " A overhelming anime solo leveling known in modern era for its animation and great story."
+        
+    },
+    {
+        "id" : 2,
+         "image":"Assets/images/tan.jpg",
+        "name" : "DEATH NOTE",
+        "category": "MANGA",
+        "type": "psychology",
+        "tags": ["psychology warfare", "horror","survival"],
+        "popularity": 66,
+        "release_date":"MAY 06 2022",
+        "description" : "Death Note Manga Series has a very intense and supernatural story with great plot twists"
+    },
+
+    {
+        "id" : 3,
+         "image":"Assets/images/ONE.jpg",
+        "name" : "One Piece",
+        "category": "MANGA",
+        "type": "fiction animation",
+        "tags": ["action", "war","comedy","romance"],
+        "popularity": 78,
+        "release_date":"APRIL 05 2020",
+        "description" : "One Piece Longest Anime of All Time.With a lagendary story of pirates and onepiece"
+    }
+
+
+]
