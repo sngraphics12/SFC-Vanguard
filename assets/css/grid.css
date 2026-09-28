@@ -232,7 +232,11 @@
     background-position: center;
     background-size: cover;
 }
-
+.box11:hover {
+    background-image: url(../images/comics/ironman.webp);
+    background-position: center;
+    background-size: cover;
+}
 @media screen and (max-width: 1200px) {
 
     .main {
